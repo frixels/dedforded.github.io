@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+*{
+margin: 0;
+padding: 0;
+background-color: #131313;
+}
+
+nav{
+display: flex;
+justify-content: right;
+align-items: center;
+min-height: 7vh;
+background-color: #1F1F1F;
+}
+
+.HatList{
+width: 100px;
+height: 35px;
+border: none;
+color: #F4F6F7;
+font-family: 'Source Sans Pro', sans-serif;
+background-color: rgb(20,20,20) ;
+border-radius: 4px;
+box-shadow: inset 0 0 0 0 #F4F6F7;
+transition: ease-out 0.3s;
+font-size: 0.7rem;
+outline: none;
+margin: 10px;
+margin-left: 150px;
+}
+
+.HatList:hover {
+box-shadow: inset 100px 0 0 0 #F4F6F7;
+cursor: pointer;
+color: rgb(20,20,20) ;
+}
+
+
+
+.idk{
+width: 100px;
+height: 35px;
+border: none;
+color: #F4F6F7;
+font-family: 'Source Sans Pro', sans-serif;
+background-color: rgb(20,20,20) ;
+border-radius: 4px;
+box-shadow: inset 0 0 0 0 #F4F6F7;
+transition: ease-out 0.3s;
+font-size: 0.7rem;
+outline: none;
+margin: 10px;
+margin-left: : 150px;
+}
+
+.idk:hover {
+box-shadow: inset 100px 0 0 0 #F4F6F7;
+cursor: pointer;
+color: rgb(20,20,20) ;
+}
